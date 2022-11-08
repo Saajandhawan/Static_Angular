@@ -7,4 +7,9 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'This is NavBar';
+
+
+myClick(){
+  this.title="Saajan Dhawan"
+}
 }
